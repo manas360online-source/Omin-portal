@@ -1,0 +1,7 @@
+{
+  "name": "Remix: OmniPortal: Life \u0026 Health Hub",
+  "description": "A comprehensive platform for location exploration, health management, medical cost transparency, and stress relief.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
